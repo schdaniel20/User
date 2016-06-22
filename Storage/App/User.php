@@ -6,7 +6,7 @@
  * Time: 11:46
  */
 
-namespace App;
+namespace Cylex\Storage\App;
 
 use Cylex\Storage\Store\UserInterface;
 
