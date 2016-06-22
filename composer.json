@@ -1,0 +1,10 @@
+{
+  "name":"User",
+  "version" : "dev-master",
+  "autoload": {
+    "psr-4": {"Cylex\Storage\\": "Storage/"}
+  },
+  "require": {
+    "opis/container": "^2.3.1"
+  }
+}
